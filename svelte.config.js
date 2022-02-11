@@ -9,7 +9,7 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-		amp: true,
+		// amp: true,
 	}
 };
 
